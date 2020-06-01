@@ -1,0 +1,40 @@
+/*h1 {background-color: tomato;}*/
+* {
+	box-sizing: border-box;
+	max-width: 100%;
+}
+
+.jumbotron {padding:1rem; background-color: #d6e0f5;}
+
+/*font-family: 'Slabo 27px', serif;
+font-family: 'Markazi Text', serif;
+font-family: 'Source Code Pro', monospace;*/
+
+body {
+	overflow-x: hidden;
+	background-color: #fff;
+
+}
+.title, 
+h2 {
+	font-family: 'Slabo 27px', serif;
+}
+.navbar-nav {
+	font-family: 'Markazi Text', serif;
+	font-size: 1.25em;
+	letter-spacing: .2em;
+	
+}
+.art-name {
+	color: lightslategrey;
+}
+.headline {
+	color: black;
+}
+.art-name,
+.headline {
+	font-family: 'Source Code Pro', monospace;
+	
+}
+
+/* images */

@@ -1,0 +1,11 @@
+@import 'base.css';
+
+
+.blog-links {
+	text-align: center;
+
+}
+.blog-links:hover {
+	text-decoration: none;
+	color: tomato;
+}

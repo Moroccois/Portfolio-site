@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"latest_question_list"
+			],
+			[
+				"assert",
+				"assertEqual"
+			],
+			[
+				"cour",
+				"course_detail_view"
+			],
+			[
+				"course",
+				"course_list_view"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lenor/Dev/djangocorey/src/blog/urls.py",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/templates/blog/post_detail.html",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/templates/blog/base.html",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/views.py",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/templates/blog/post_confirm_delete.html",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/models.py",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/templates/blog/post_form.html",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/templates/blog/home.html",
+		"/C/Users/lenor/Dev/djangocorey/src/users/forms.py",
+		"/C/Users/lenor/Dev/djangocorey/src/users/views.py",
+		"/C/Users/lenor/Dev/djangocorey/src/users/models.py",
+		"/C/Users/lenor/Dev/djangocorey/src/users/templates/users/profile.html",
+		"/C/Users/lenor/Dev/djangocorey/src/django_project/urls.py",
+		"/C/Users/lenor/Dev/djangocorey/src/users/signals.py",
+		"/C/Users/lenor/Dev/djangocorey/src/users/apps.py",
+		"/C/Users/lenor/Dev/djangocorey/src/users/admin.py",
+		"/C/Users/lenor/Dev/djangocorey/src/django_project/settings.py",
+		"/C/Users/lenor/OneDrive/Pictures/desktop Backgrounds/2017_September16.jpg",
+		"/C/Users/lenor/Dev/djangocorey/src/users/templates/users/login.html",
+		"/C/Users/lenor/Dev/djangocorey/src/users/templates/users/register.html",
+		"/C/Users/lenor/Dev/djangocorey/src/users/templates/users/logout.html",
+		"/C/Users/lenor/Dev/djangocorey/src/users/templates/login.html",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/admin.py",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/templates/blog/about.html",
+		"/C/Users/lenor/Dev/djangocorey/src/blog/static/blog/main.css",
+		"/C/Users/lenor/Dev/mysite/src/polls/admin.py",
+		"/C/Users/lenor/Dev/mysite/src/polls/static/polls/style.css",
+		"/C/Users/lenor/Dev/mysite/src/mysite/settings.py",
+		"/C/Users/lenor/Dev/mysite/src/templates/admin/admin.html",
+		"/C/Users/lenor/Dev/mysite/src/polls/views.py",
+		"/C/Users/lenor/Dev/mysite/src/polls/templates/polls/index.html",
+		"/C/Users/lenor/Dev/mysite/src/polls/templates/polls/results.html",
+		"/C/Users/lenor/Dev/mysite/src/polls/templates/polls/detail.html",
+		"/C/Users/lenor/Dev/mysite/src/mysite/urls.py",
+		"/C/Users/lenor/Dev/mysite/src/polls/models.py",
+		"/C/Users/lenor/Dev/mysite/src/polls/templates/polls/home_view.html",
+		"/C/Users/lenor/Dev/mysite/src/polls/templates/templates",
+		"/C/Users/lenor/Dev/mysite/src/polls/static/polls/images/background.gif",
+		"/C/Users/lenor/OneDrive/Pictures/desktop Backgrounds/2018_June10.jpg",
+		"/C/Users/lenor/Dev/mysite/src/polls/static/polls/images/background.jpg",
+		"/C/Users/lenor/OneDrive/Pictures/desktop Backgrounds/dyt-megan-galante-5.jpg",
+		"/C/Users/lenor/OneDrive/Pictures/desktop Backgrounds/fb623b2e-5eb2-4ed6-bb32-6ff7727536f0.jpg",
+		"/C/Users/lenor/Dev/mysite/src/polls/urls.py",
+		"/C/Users/lenor/Dev/mysite/src/polls/tests.py",
+		"/C/Users/lenor/Dev/locallibrary/src/locallibrary/settings.py",
+		"/C/Users/lenor/Dev/locallibrary/src/locallibrary/urls.py",
+		"/C/Users/lenor/Dev/locallibrary/src/catalog/urls.py",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/songs/song_list_view.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/songs/song_detail_view.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/static/songs/style.css",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/songs/performers_view.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/songs/performer_detail_view.html",
+		"/C/Users/lenor/Dev/karaoke/src/karaoke/urls.py",
+		"/C/Users/lenor/Dev/karaoke/src/songs/urls.py",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/base.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/about_view.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/models.py",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/songs/empty.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/views.py",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/performers_view.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/home.html",
+		"/C/Users/lenor/Dev/cfehome/src/products/admin.py",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/songs/about_view.html",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/views.py",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/templates/courses/about_view.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/extras/__init__.py",
+		"/C/Users/lenor/Dev/karaoke/src/songs/tests.py",
+		"/C/Users/lenor/Dev/cfehome/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js",
+		"/C/Users/lenor/Dev/karaoke/src/songs/admin.py",
+		"/C/Users/lenor/Dev/karaoke/README.txt",
+		"/C/Users/lenor/Dev/karaoke/src/songs/static/songs/base.css",
+		"/C/Users/lenor/Dev/karaoke/src/songs/static/songs/base.html",
+		"/C/Users/lenor/Dev/karaoke/src/karaoke/settings.py",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/songs/base.html",
+		"/C/Users/lenor/Dev/karaoke/src/songs/templates/songs/home.html",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/tests.py",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/models.py",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/templates/courses/step_detail_view.html",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/templates/courses/course_detail_view.html",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/templates/courses/course_list.html",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/templates/base.html",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/urls.py",
+		"/C/Users/lenor/Dev/treehousedjango/src/djangobasics/urls.py",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/migrations/0003_step_course.py",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/admin.py",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/templates/home.html",
+		"/C/Users/lenor/Dev/treehousedjango/src/djangobasics/settings.py",
+		"/C/Users/lenor/Dev/treehousedjango/src/static/courses/base.css",
+		"/C/Users/lenor/Dev/treehousedjango/src/static/courses/style.css",
+		"/C/Users/lenor/Dev/treehousedjango/src/assets/base.css",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/templates/courses/base.html",
+		"/C/Users/lenor/Dev/treehousedjango/src/courses/templates/course_list.html",
+		"/C/Users/lenor/Dev/cfehome/src/templates/navbar.html",
+		"/C/Users/lenor/Dev/cfehome/src/templates/base.html",
+		"/C/Users/lenor/Dev/cfehome/src/pages/views.py",
+		"/C/Users/lenor/Dev/cfehome/src/templates/about.html",
+		"/C/Users/lenor/Dev/cfehome/src/templates/home.html",
+		"/C/Users/lenor/Dev/cfehome/src/templates/contact.html",
+		"/C/Users/lenor/Dev/cfehome/src/trydjango/urls.py",
+		"/C/Users/lenor/Dev/cfehome/src/products/models.py",
+		"/C/Users/lenor/Dev/cfehome/src/trydjango/settings.py",
+		"/C/Users/lenor/Dev/cfehome/src/products/views.py",
+		"/C/Users/lenor/Dev/cfehome/src/base.html",
+		"/C/Users/lenor/Dev/cfehome/cfehome practice django.sublime-project",
+		"/C/Users/lenor/Dev/cfehome/cfehome.sublimeproject",
+		"/C/Users/lenor/Documents/test"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

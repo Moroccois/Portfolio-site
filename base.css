@@ -1,0 +1,133 @@
+/* =================================
+  Base Styles
+==================================== */
+body {
+  font-family: 'Quicksand','Montserrat', sans-serif;
+  
+}
+/*.narvbar .navbar-brand {
+  font-family: 'Montserrat';
+}
+
+.navbar {
+  background-color: #c1d5f8;
+}
+.navbar-brand {
+  color: grey;
+}
+
+body {
+ flex-direction: column;
+ min-height: 100vh;
+ background-image: linear-gradient(#b2d8d8,  #6495ED);
+}*/
+body {
+  position: relative;
+}
+.brand-color {
+  color: lightslategrey;
+  text-align: center;
+}
+.narvbar,
+.jumbotron {
+  background-color: #b2d8d8;
+}
+
+body,
+.jumbotron {
+  background-image: url("../img/blue-watercolor.jpg" );
+  background-color: #b2d8d8 ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#welcome-section {
+  min-height: 100vh;
+}
+
+.about-paragraph {
+  font-size: 20px;
+}
+/* =================================
+ Progress Bar Styles
+==================================== */
+.progress {
+  height: 25px;
+  margin-bottom: 10px;
+  border-radius: 10px !important;
+ /* background-color: #c5ccd3;*/   /* Light light grey for progressbar */
+}
+.progress-bar {
+  background-color: #248f8f;  /* Light dark teal for progress */
+}
+
+/* =================================
+ Link Styles
+==================================== */
+.nav-links a{
+  color: darkslategrey;
+  font-weight: 550;
+  padding: 10px;
+}
+
+.nav-links a:hover {
+  color: #248f8f;
+}
+
+.btn-color {
+  background-color:  lightslategrey;
+  color: white;
+}
+
+.card-body a {
+  color: lightslategray;
+  text-align: center;
+}
+
+.card-body a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+#profile-link {
+  color: black;
+}
+
+#profile-link:hover {
+  text-decoration: none;
+  color: lightslategray;
+}
+
+
+/* =================================
+  Footer Styles
+==================================== */
+
+@media (max-width: 979px) {
+  body{
+      padding-top: 0px;
+}
+}
+
+@media only screen and (max-width: 720px){
+  .primary, .secondary, .tertiary, .fourth, .fifth, .sixth{
+     margin-bottom: 10px;  
+     padding-bottom: 10px;
+
+     display: flex;
+     flex-direction: row;
+     flex-direction: column;
+
+     align-items: center;
+  }
+  #info {
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    align-items: center;
+
+  }
+  .form-control {
+    margin: 10px;
+  }
+}
